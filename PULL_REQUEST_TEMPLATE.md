@@ -17,8 +17,7 @@ Tick the relevant options.
 ## Change Risk
 
 <!-- - [ ] Do these changes require [Change Board Approval](https://oxfordmedicalsimulation.atlassian.net/wiki/spaces/CAB/pages/1429635073/Changes+that+require+CAB+approval)? -->
-- [ ] Do these changes risk introducing unforeseen consequences? If yes what has been done to mitigate that?
-
+- [ ] Are these changes likely to introduce unforeseen consequences? If yes what has been done to mitigate that?
 
 # How Has This Been Tested?
 
