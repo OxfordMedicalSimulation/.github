@@ -1,8 +1,9 @@
+
+- [ ] My branch name contains the Jira Ticket Id in line with our source control practices.
+
 # Description
 
 Please include a summary of the change and which issue is fixed. 
-
-Fixes/Implements # (jira link or jira ticket id)
 
 ## Type of change
 
@@ -16,7 +17,7 @@ Tick the relevant options.
 ## Change Risk
 
 <!-- - [ ] Do these changes require [Change Board Approval](https://oxfordmedicalsimulation.atlassian.net/wiki/spaces/CAB/pages/1429635073/Changes+that+require+CAB+approval)? -->
-- [ ] Are these changes to introduce unforeseen consequences? If yes what has been done to mitigate that?
+- [ ] Do these changes risk introducing unforeseen consequences? If yes what has been done to mitigate that?
 
 
 # How Has This Been Tested?
